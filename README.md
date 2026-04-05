@@ -4,6 +4,8 @@
 
 Wireshark dissector for the HyperLoop telemetry protocol. Reads packet and measurement definitions directly from the [`adj/`](https://github.com/Hyperloop-UPV/adj) JSON files at runtime, so it stays in sync with the protocol automatically.
 
+![img](img.png)
+
 ## Requirements
 
 - Wireshark 3.x or later
